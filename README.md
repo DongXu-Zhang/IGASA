@@ -77,8 +77,11 @@ python trainval.py --mode test
 ```
 
 ### Qualitative results
-You can use the demo_outdoor.py command for visualization. The results are as follows:
+You can use the demo_outdoor.py command for visualization. The results are as follows.
+#### KITTI
 ![](assets/kitti.png)
+#### nuScenes
 ![](assets/nuscenes.png)
+#### 3DMatch
 ![](assets/3dmatch.png)
 We also provide the weight file in different datasets to help you get the final results.
