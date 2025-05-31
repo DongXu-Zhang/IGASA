@@ -2,7 +2,7 @@
 
 ### Introduction
 
-![](assets/pipeline.pdf)
+![](assets/pipeline.png)
 
 Code has been tested with Ubuntu 20.04, GCC 9.4.0, Python 3.7, PyTorch 1.9.0, CUDA 11.2 and PyTorch3D 0.6.2.
 
@@ -78,7 +78,7 @@ python trainval.py --mode test
 
 ### Qualitative results
 You can use the demo_outdoor.py command for visualization. The results are as follows:
-![](assets/kitti.pdf)
-![](assets/nuscenes.pdf)
-![](assets/3dmatch.pdf)
+![](assets/kitti.png)
+![](assets/nuscenes.png)
+![](assets/3dmatch.png)
 We also provide the weight file in different datasets to help you get the final results.
